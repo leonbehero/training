@@ -1,0 +1,24 @@
+Issue Status	Open/Closed	Issue Start Date/Time	This is the date/time when issue started.
+Issue Type		Issue End Date/Time	This is the date/time when issue was closed.
+Product Affected		Manager Aware	
+Spreadsheet Created			
+Description of Issue:	"Include a brief description of the issue which should cover below areas:
+how issue was identified?
+investigation result we have.
+What changes have been made.
+How issue is resolved?"		
+Action required on next shift:	"In this column you need to state any outstanding actions and tasks are required on next shift. for example:
+
+send bet placement issue report to OTS every 12 hours. or
+Check update with APG at 02:00 AM. or
+Stay close on the issue."		
+Impact by the issue:	"In this column you need to state what the impact to the business/customer is. Only below information needs to be loged.
+
+If the issue occured during your shift, you need to state the overall impact of the issue to business/customer. For example: Number of reports received, number of confimed resolved cases. Number of payment trace. Percentate of pending rate.
+
+If it's an outstanding issue, which was handover from previous shift, you need to state the impact of the issue during your shift and overall impact of the issue so far. for example:
+
+number of reports recieved during your shift.
+number of payment trace increased during your shift.
+
+Total number of reports received so far since the issue started,"		
