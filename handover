@@ -2,21 +2,36 @@ Issue Status	Open/Closed	Issue Start Date/Time	This is the date/time when issue 
 Issue Type		Issue End Date/Time	This is the date/time when issue was closed.
 Product Affected		Manager Aware	
 Spreadsheet Created			
-Description of Issue:	"Include a brief description of the issue which should cover below areas:
-how issue was identified?
-investigation result we have.
-What changes have been made.
-How issue is resolved?"		
-Action required on next shift:	"In this column you need to state any outstanding actions and tasks are required on next shift. for example:
+Description of Issue:	"Include basic facts of the issue which could cover below areas:
+
+When and where did the issue start;
+Brief description of the issue;
+The length of time the issue has been occuring;
+What efforts have been made;
+When and how was the issue resolved;"		
+Action required on next shift:	"In this column you need to state any outstanding actions and tasks are required for ongoing issue on next shift or at certain time.
 
 send bet placement issue report to OTS every 12 hours. or
 Check update with APG at 02:00 AM. or
 Stay close on the issue."		
-Impact by the issue:	"In this column you need to state what the impact to the business/customer is. Only below information needs to be loged.
+Impact by the issue:	"In this column you need to state what the impact to the business/customer is. 
+
+For closed issue, or new ongoing issue which started during you shift, state the overall impact of the issue to the business/customer since the issue started, such as
+
+Number of reports received, 
+Number of resolved cases.
+Contact level during the period of the issue.
+etc.
+
+For issues where the period of the issue cross your shift, such as long term ongoing issue, only include the impact of the issue during your shift in the report, such as
+
+Number of reports received, 
+Number of resolved cases.
+Contact level during the period of the issue.
 
 If the issue occured during your shift, you need to state the overall impact of the issue to business/customer. For example: Number of reports received, number of confimed resolved cases. Number of payment trace. Percentate of pending rate.
 
-If it's an outstanding issue, which was handover from previous shift, you need to state the impact of the issue during your shift and overall impact of the issue so far. for example:
+If it's a ongoing issue, which was handover from previous shift, you need to state the impact of the issue during your shift and overall impact of the issue so far. for example:
 
 number of reports recieved during your shift.
 number of payment trace increased during your shift.
